@@ -1,3 +1,7 @@
 T1
 T2
 hello
+
+def foo(parameter: Int): Int = {
+  println(parameter)
+}
