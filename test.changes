@@ -2,6 +2,6 @@ T1
 T2
 hello
 
-def foo(parameter: Int): Int = {
+def foo1(parameter: Int): Int = {
   println(parameter)
 }
